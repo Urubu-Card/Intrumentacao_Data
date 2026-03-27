@@ -12,11 +12,6 @@
 
 ---
 
-https://github.com/Urubu-Card/intrumentacao_data
-https://entrar.streamlit.app
-
----
-
 ## ⚙ About
  Challenge proposed by Professor Fabiano Luizon Campos, as part of the Instrumentation Course!
 
